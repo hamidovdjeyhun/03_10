@@ -1,0 +1,80 @@
+body{
+  color: black;
+  background-color:#F5DEB3;
+}
+
+h1{
+  text-align: center;
+  color: #B8860B
+  }
+
+h1{
+  font-family: "Pangolin";
+}
+
+#mgpx{
+  width: 60px;
+  padding: 30px 60px;
+  margin: 40px auto;
+  border: 1px dotted white;
+}
+
+
+img.iphone{
+	width: 200px;
+	height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+h2.first{
+  color: #B8860B;
+  text-align: center;
+  font-family: "Pangolin";
+}
+
+h2.second{
+  text-align: center;
+}
+
+h2.third{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-family: "Pangolin";
+  margin:10px;
+  padding: 30px;
+}
+
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+  }
+
+.button{
+
+  border-radius: 5px;
+  padding: 15px 30px;
+  background-color: #D2B48C;
+  text-decoration: none;
+  color: white;
+  opacity: 60%;
+
+}
+
+.button1{
+  width: 215px;
+  margin: 40px auto;
+}
+
+#long{
+  margin: 10px auto;
+  max-width: 500px;
+  max-height: 300px;
+  overflow: scroll;
+}
